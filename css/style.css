@@ -1,0 +1,199 @@
+
+
+header nav ul li a:hover {
+    background-color: pink;
+    
+    
+
+}
+
+header nav {
+   
+    display: inline-block !important;
+    width: 1100px;
+    height: 60px;
+    padding-left: 650px !important;
+    margin: 20px;
+    
+}
+
+
+main h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+main h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.contenedorinicio {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenidoinicio {
+    flex: 1;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.contenidoinicio h2 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    padding: 50px;
+    margin: 0px 50px;
+
+}
+
+
+#yoga p {
+    background-color: bisque;
+    width: 180px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.contenedornos {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenidonos {
+    flex: 1;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.contenidonos h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 0px 50px;
+
+}
+
+#fotoprofe p {
+    background-color: bisque;
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+.contenedoryoga {
+    flex: 1;
+    padding-left: 10px;
+    box-sizing: border-box;
+    
+}
+
+.contenidoyoga {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.contenedoryoga ul li {
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-color: blanchedalmond;
+    padding: 10px;
+    margin: 10px 170px;
+
+}
+
+
+#fotoyoga p {
+    background-color: bisque;
+    width: 150px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+    
+}
+
+.contenedorser {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenidoser {
+    flex: 1;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.contenidoser ul li {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    padding: 20px;
+    margin: 10px 100px;
+
+}
+
+#fotoposturayoga p {
+    background-color: bisque;
+    width: 240px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
+
+.contenedorcon {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenidocon {
+    flex: 1;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+.contenidocon h3 {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+    padding: 50px;
+    margin: 0px 50px;
+
+}
+
+#fotocontacto p {
+    background-color: bisque;
+    width: 240px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px; 
+}
+
+footer {
+    
+    background-color: pink;
+    margin: 20px;
+    padding: 20px;
+    font-size: 18px;
+}
+
+body {
+    background-color: beige;
+}
+
