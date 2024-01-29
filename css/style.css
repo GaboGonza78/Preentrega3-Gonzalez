@@ -157,11 +157,19 @@ main h2 {
     box-sizing: border-box;
 }
 
+.contenidoser ul {
+    padding: 0;
+}
+
 .contenidoser ul li {
     font-family: 'Times New Roman', Times, serif;
     background-color: blanchedalmond;
     padding: 20px;
-    margin: 10px 100px;
+    
+    @media (max-width: 1441px) {
+        margin: 10px;
+    }
+
 
 }
 
