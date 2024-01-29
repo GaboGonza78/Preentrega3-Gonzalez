@@ -93,11 +93,15 @@ main h2 {
     margin-top: 20px;
 }
 
+@media (max-width: 767px) {
+
+
 .contenedoryoga {
     flex: 1;
     padding-left: 10px;
     box-sizing: border-box;
     
+}
 }
 
 .contenidoyoga {
@@ -109,7 +113,6 @@ main h2 {
     
 }
 
-@media (max-width: 767px) {
 
 .contenedoryoga ul li {
     font-family: 'Times New Roman', Times, serif;
@@ -119,7 +122,7 @@ main h2 {
     margin: 10px 0px;
 
 }
-}
+
 
 #fotoyoga {
     text-align: center;
