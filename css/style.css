@@ -196,8 +196,8 @@ main h2 {
 .contenidocon h3 {
     font-family: 'Times New Roman', Times, serif;
     background-color: blanchedalmond;
-    padding: 50px;
-    margin: 0px 50px;
+    padding: 20px;
+    margin: 10px;
 
 }
 
@@ -216,6 +216,16 @@ footer {
     margin: 20px;
     padding: 20px;
     font-size: 18px;
+}
+
+@media (max-width: 767px) {
+    .contenedorcon {
+        flex-direction: column;
+    }
+
+    .contenidocon h3 {
+        padding: 15px;
+    }
 }
 
 body {
