@@ -4,6 +4,7 @@ header nav ul li a:hover {
     background-color: pink;
     
     
+    
 
 }
 
@@ -24,11 +25,14 @@ main h1 {
     padding-left: 10px;
 }
 
+@media (max-width: 767px) {
+
 main h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 40px;
+    font-size: 1.5em;
     padding-bottom: 10px;
     padding-left: 10px;
+}
 }
 
 .contenedorinicio {
