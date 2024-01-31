@@ -1,11 +1,11 @@
 
 
-header nav ul li a:hover {
+header nav.navbar .nav-item:hover {
     background-color: pink;
-    
-    
-    
+}
 
+header nav.navbar .nav-item.active {
+    text-decoration: underline;
 }
 
 /*header nav {
