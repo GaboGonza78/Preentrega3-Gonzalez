@@ -1,0 +1,28 @@
+.contenedorinicio {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contenidoinicio {
+    flex: 1;
+    padding-left: 10px;
+    box-sizing: border-box;
+}
+
+     h2 {
+        font-family: 'Times New Roman', Times, serif;
+        background-color: blanchedalmond;
+        padding: 50px;
+        margin: 0px 50px;
+
+    }
+
+    #yoga p {
+        background-color: bisque;
+        width: 180px;
+        height: 50px;
+        padding: 10px;
+        border: 1px solid black;
+        margin-top: 10px;
+    }
+

@@ -1,0 +1,10 @@
+header {
+    nav.navbar { 
+        .nav-item:hover {
+            background-color: pink
+        }
+        .nav-item.active {
+            text-decoration: underline;
+        }
+    }
+}
