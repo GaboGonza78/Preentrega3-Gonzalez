@@ -1,0 +1,42 @@
+@media (max-width: 767px) {
+    .contenedorcon {
+        flex-direction: column;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    
+}
+
+
+.contenidocon {
+    flex: 1;
+    padding-left: 10px;
+    box-sizing: border-box;
+
+    h3 {
+        font-family: 'Times New Roman', Times, serif;
+        background-color: blanchedalmond;
+        padding: 20px;
+        margin: 10px;
+        }   
+    }
+
+
+#fotocontacto p {
+    background-color: bisque;
+    width: 240px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px; 
+}
+
+footer {
+    
+    background-color: pink;
+    margin: 20px;
+    padding: 20px;
+    font-size: 18px;
+}
+
