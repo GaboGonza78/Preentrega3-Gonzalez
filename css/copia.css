@@ -53,7 +53,7 @@ main h2 {
     padding: 10px;
     border: 1px solid black;
     margin-top: 10px;
-}*/
+}
 
 .contenedornos {
     display: flex;
@@ -82,7 +82,7 @@ main h2 {
     padding: 10px;
     border: 1px solid black;
     margin-top: 20px;
-}
+}*/
 
 @media (max-width: 767px) {
 
