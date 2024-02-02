@@ -1,9 +1,10 @@
 header {
-    nav.navbar { 
+    nav.navbar {
+        background-image: radial-gradient(circle, pink, blanchedalmond, lightblue); 
         .nav-item:hover {
-            background-color: pink
+            background-image: linear-gradient(to right, blanchedalmond,pink);
         
-            active {
+            .nav-item:active {
                 text-decoration: underline;
             }
         }

@@ -5,7 +5,7 @@
 
 .contenidoser {
     flex: 1;
-    padding-left: 10px;
+    padding-left: 50px;
     box-sizing: border-box;
 
     ul {
@@ -13,8 +13,9 @@
 
         li {
             font-family: 'Times New Roman', Times, serif;
-            background-color: blanchedalmond;
+            background-image: linear-gradient(to right, blanchedalmond, pink);
             padding: 20px;
+            margin-bottom: 10px;
             
             @media (max-width: 1441px) {
                 margin: 10px;
