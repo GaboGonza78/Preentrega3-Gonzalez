@@ -1,4 +1,7 @@
+
+
 header {
+    
     nav.navbar {
         background-image: radial-gradient(circle, pink, blanchedalmond, lightblue); 
         .nav-item:hover {
@@ -6,6 +9,9 @@ header {
         
             .nav-item:active {
                 text-decoration: underline;
+
+                
+    
             }
         }
     }

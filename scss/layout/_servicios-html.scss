@@ -16,6 +16,10 @@
             background-image: linear-gradient(to right, blanchedalmond, pink);
             padding: 20px;
             margin-bottom: 10px;
+            transition: 1s;
+            &:hover{
+                transform: translateX(60px);
+            }
             
             @media (max-width: 1441px) {
                 margin: 10px;

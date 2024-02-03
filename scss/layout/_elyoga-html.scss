@@ -57,7 +57,8 @@
     flex: 1;
     padding-left: 10px;
     box-sizing: border-box;
-    
+
+   
     ul{ 
         li {
             font-family: 'Times New Roman', Times, serif;
@@ -65,6 +66,10 @@
             background-image: linear-gradient(to left, blanchedalmond, pink);
             padding: 10px;
             margin: 10px 0px;
+            transition: 1s;
+            &:hover{
+                transform: translateX(60px);
+            }
         }
     }
 }
