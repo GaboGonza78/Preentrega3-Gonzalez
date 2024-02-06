@@ -99,58 +99,6 @@ img {
   margin-top: 20px;
 }
 
-/*@media (max-width: 767px) {
-    .contenedoryoga {
-        display: flex;
-        flex-wrap: wrap;
-        flex: 1;
-        padding-left: 10px;
-        box-sizing: border-box;
-
-        ul{ 
-            li {
-                font-family: 'Times New Roman', Times, serif;
-                font-size: 16px;
-                background-color: blanchedalmond;
-                padding: 10px;
-                margin: 10px 0px;
-            }
-        }
-    }
-
-
-    .contenidoyoga {
-        display:flex;
-        align-items: center;
-        justify-content: center;
-        margin: 0;
-        flex-wrap: wrap;
-
-            img {
-                width: 100%;
-                max-width: 100%;
-                height: auto;
-                max-height: 100vh;
-            }
-
-    }
-
-    #fotoyoga {
-        text-align: center;
-        padding: 20px;
-
-
-        p {
-            background-color: bisque;
-            width: 150px;
-            height: 50px;
-            padding: 10px;
-            border: 1px solid black;
-            margin-top: 10px;
-
-        }
-    }
-}*/
 .contenedoryoga {
   display: flex;
   flex-wrap: wrap;
@@ -234,7 +182,6 @@ img {
   margin-top: 10px;
 }
 
-/*@media (max-width: 767px) {*/
 @keyframes cambioDeColor {
   0% {
     background-color: blanchedalmond;
@@ -259,7 +206,6 @@ img {
 
 h3 {
   font-family: "Times New Roman", Times, serif;
-  /*background-image: linear-gradient(to bottom, blanchedalmond, pink);*/
   padding: 20px;
   margin: 10px;
   animation-name: cambioDeColor;
@@ -278,35 +224,6 @@ h3 {
   margin-top: 10px;
 }
 
-/*@media (max-width: 767px) {
-    .contenedorcon {
-        display: flex;
-        flex-direction: column;
-        flex-wrap: wrap;
-    }
-
-    .contenidocon {
-        flex: 1;
-        padding-left: 10px;
-        box-sizing: border-box;
-
-        h3 {
-            font-family: 'Times New Roman', Times, serif;
-            background-color: blanchedalmond;
-            padding: 20px;
-            margin: 10px;
-        }
-    }
-
-    #fotocontacto p {
-        background-color: bisque;
-        width: 240px;
-        height: 50px;
-        padding: 10px;
-        border: 1px solid black;
-        margin-top: 10px;
-    }
-}*/
 footer {
   text-align: center;
   background-image: radial-gradient(circle, blanchedalmond, pink);
